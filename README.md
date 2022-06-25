@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Criando projetos pessoas<br>📚 Estudando React, ReactNative, Html, CSS, JavaScript</p>
+<p align="left">✨ Criando projetos pessoais<br>📚 Estudando React, ReactNative, Html, CSS, JavaScript</p>
 
 ###
 
